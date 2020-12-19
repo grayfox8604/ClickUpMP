@@ -27,6 +27,6 @@
    potential spread of this issue and the several points of possible failure, I would begin an immediate investigation into the issue.
 
 4. A blog post of yours from 2016 has various grammar mistakes throughout it. 
-   * > **Priority = Low, Severity = Low.** This issue is not a product or feature issue. Customer's work is not impacted by the grammer mistakes and more 
+   * > **Priority = Low, Severity = Low.** This issue is not a product or feature issue. Customer's work is not impacted by the grammar mistakes and more 
    importantly, the post is from 2016. Given the longevity of the issue and the fact that only 1 person has commented on the post in 4 years, this issue is at the 
    bottom of the list.
