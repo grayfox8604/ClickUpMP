@@ -46,7 +46,7 @@ ClickIIp Support
  permissions to the __Space__ *(Jorge is asking for help to access a Space, not a folder)* they’re trying to access. Since Brit Ishe was the last 
  owner, __she__ *(Jorge stated that Brit is female)* must have not transferred ownership to you before __leaving the company__
  *(Jorge stated that Brit left the company, not paternity leave)*. Please see the documentation for this [__issue here__](https://docs.clickup.com/en/articles/3423962-changing-a-space-s-owner)
- *(The incorrect documentation was attached)*. __I can adjust ownership to your user once we have proof of Ms. Ishe's separation of the company.__ *(This line is added to provide an action
+ *(The incorrect documentation was attached)*. __I can adjust ownership to your user once we have proof of Ms. Ishe's separation from the company.__ *(This line is added to provide an action
  to Jorge's request, given that ClickUp is shown proof she is no longer an employee.)*
  
  I’m happy to set up a __Zoom video__ call with you to discuss this further! *(Jorge asked for a Zoom call, not a phone call)*
